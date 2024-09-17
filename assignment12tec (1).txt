@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	
+	<meta charset="utf-8">
+	
+	<title>Dying Internet</title>
+	
+	<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+  <div id="container">
+
+<header>
+  <h1>The death of old Internet </h1>
+  <h2>By: Camron Anderson 9/9/2024</h2>
+</header>
+<main>
+  <p class="poe">For this response I would like to focus on the "The Age of App-quarius" section of the essay. Its no surprise that are apps have grown in what they can accomplish and what they can offer. But I've seen over the years how these apps(mainly games) have all just been copies of each other. It's as if they're is a really marketable and profitable template that all of these companies try and follow. This in turn leaves consumers of these apps that are essentially just copy and paste cash grabs that even while they don't do what they promise or advertise to they're still plastered front page of the app store. This also becomes apparent when you look at the overall design of these apps. There's nothing really there that you can say makes this really your app. Lets take Instagram for example(because that's just he app I use often.). You can say that oh well there's your Instagram page that you can put links onto and you can put whatever you want into your bio plus there's all the media that you upload. But if you were to take that out what's left? You could say that there's your friend and follow list but that's not really unique because you can just talk with and follow those people on another social media app. You could also mention your feed and while yes that can be kinda unique, that's really just designed to keep you engaged with the app. So when you break it down Instagram only gives you about 3 was to make your page you to give it some type of personality with the limited tools you're given.</p>
+
+<p> 
+It makes no sense that in the year 2024 we have even less customization that people who used things like myspace did. Even though we have more powerful machines and a better understanding of what we can do with them we're still just left with the most basic of basic tools to use. That's another reason I think app stores have become such a waste land because people are creating so many apps just for things like customization options and everyone's trying to capitalize off of that because they know these companies aren't ever going to offer this type of stuff.
+</p>
+
+<P>
+Lastly I would like to talk about the section "Revenge of the Old Internet". I really liked how they focused on Facebook and how it went from this popular and prestigious platform to this wasteland of misinformation, bad and cringe memes/post, data stealing cesspool that everyone rightfully points and laughs at. I find it ironic that a social media platform that managed to kill one that already established and pretty popular just by marketing itself as something only people of a higher or smarter standing use has now become one of the worst social media platforms with stacks upon stacks of controversy surrounding not only what gets posted but also surrounding the company itself and the shady and shitty business practices that they do. I do think we'll ever be able to go back to the days of GeoCities and actual personally designed sites but I am hoping that more people do become aware of what we used to have and demand a return of those kind of features that made using those websites really enjoyable and fun. Like how cool would it be to have a custom theme song when someone opens your Instagram page. Even something as simple as customizing my background would make me more inclined to use these apps more. It is no secret that we are quickly losing actual ownership over the things we use/purchase so I think the least these companies can do is let me do some background/text customization.        
+</p>
+
+
+</main>
+<footer>
+ &#169; Camron Anderson 
+</footer>
+
+
+
+  </div><!-- close "container" -->
+  
+
+</body>
+	
+</html> 

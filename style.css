@@ -1,0 +1,65 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+	font-family:Lucida Console, sans-serif;
+	background:#341b69;
+	/*text-shadow:2px 2px red;*/
+}
+
+
+div#container {
+	border:1px solid black;
+	width:1000px;
+	margin:auto;
+	margin-top:45px;
+	/*padding:20px;*/
+	background:#ad28a9;
+}
+
+header{
+	font-family:Impact,sans-serif;
+	/*padding:50px;*/
+}
+
+footer{
+	font-size:0.8em;
+}
+
+header,footer{
+	background:#2a8085;
+
+
+}
+main{
+
+	padding:20px;
+	
+}
+
+h1,h2{
+margin:50px;
+text-align:center;
+
+}
+
+p.poe {
+
+	color:yellow;
+}
+
+
+
